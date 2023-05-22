@@ -27,7 +27,7 @@ return {
 
     -- View other usage of the plugin: https://github.com/akinsho/toggleterm.nvim
     -- Use the shortcut to open or close the terminal.
-    terminal            = "<A-j>",
+    terminal            = "<F12>",
 
     -- View other usage of the plugin: https://github.com/Shatur/neovim-session-manager
     -- Use the shortcut to switch a session.
